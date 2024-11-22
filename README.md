@@ -1,2 +1,2 @@
 # db-capstone-project
-*My name is David Cherrington
+*setting up repository for project
